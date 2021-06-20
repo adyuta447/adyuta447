@@ -4,7 +4,7 @@
 <hr>
 
 <i>
-My name's Adyuta, I'm a Front-End Developer, and I still have a lot to learn.<br>
+Hello, My name's Adyuta.<br>
 
 I love programming the world, the relationship related to technology. All my time is spent coding and learning new things. <br>
 I use HTML, CSS, JavaScript and React framework.
