@@ -16,5 +16,5 @@ I use HTML, CSS, JavaScript and React framework.
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adyuta447&layout=compact&theme=radical)](https://github.com/adyuta447)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adyuta447&layout=compact&theme=radical)](https://github.com/adyuta447)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adyuta447&repo=MyPortfolio&theme=radical)](https://github.com/adyuta447/MyPortfolio)
