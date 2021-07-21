@@ -6,7 +6,7 @@
 <i>
 Hello, My name's Adyuta.<br>
 
-I love programming the world, the relationship related to technology. All my time is spent coding and learning new things. <br>
+I love programming, the relationship related to technology. All my time is spent coding and learning new things. <br>
 I use HTML, CSS, JavaScript and React framework.
 <i>
 
