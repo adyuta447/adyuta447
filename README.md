@@ -14,8 +14,8 @@ I use HTML, CSS, JavaScript and React framework.
 **There is one corner of the universe you can be certain of improving, and that's your own self. -Aldous Huxley**
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adyuta447&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adyuta447&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adyuta447&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adyuta447&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adyuta447&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adyuta447&theme=solarized)
 
 
