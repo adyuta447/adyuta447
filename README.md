@@ -5,9 +5,9 @@
 
 <i>
 Hello, My name's Adyuta.<br>
-
-I love programming, the relationship related to technology. All my time is spent coding and learning new things. <br>
-I use HTML, CSS, JavaScript and React framework.
+Im a Linux Enthusiast. And I'm interested in becoming a Full Stack Developer.
+  
+I really like the world of programming, also related to technology. I spend all my time coding and learning new things. I also like tinkering with Linux Operating Systems, sometimes I like to try and install from parent distro to child distro, and it's really fun for me.
 <i>
 
 
