@@ -14,9 +14,10 @@ I really like the world of programming, also related to technology. I spend all 
   
   ### Languages and Tools:
 <img align="left" alt="Arch" width="26px" src="icons/arch.svg" />
-<img align="left" alt="Bash" width="26px" src="icons/bash.svg" />
+<img align="left" alt="vscode" width="26px" src="icons/vscode.svg" />
 <img align="left" alt="Vim" width="26px" src="icons/vim.svg" />
 <img align="left" alt="CSS" width="26px" src="icons/css.svg" />
+<img align="left" alt="sass" width="26px" src="icons/sass.svg" />
 <img align="left" alt="HTML" width="26px" src="icons/html.svg" />
 <img align="left" alt="JS" width="26px" src="icons/js.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="icons/bootstrap.svg" />
