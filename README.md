@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Adyuta
+## Hi there 👋, I'm Adyuta
 
 
-<hr>
-
+### I'm Idiot Programer, Linux Enthusiast, Student
+<hr/>
 Hello, My name's Adyuta.<br>
-Im a Linux Enthusiast. And I'm interested in becoming a Full Stack Developer.
+Im a Linux Enthusiast(not a linux elitist). And I'm interested in becoming a Full Stack Developer.
   
 I really like the world of programming, also related to technology. I spend all my time coding and learning new things. I also like tinkering with Linux Operating Systems, sometimes I like to try and install from parent distro to child distro, and it's really fun for me.
 
