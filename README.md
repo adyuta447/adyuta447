@@ -21,7 +21,8 @@ I really like the world of programming, also related to technology. I spend all 
 <img align="left" alt="HTML" width="26px" src="icons/html.svg" />
 <img align="left" alt="JS" width="26px" src="icons/js.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="icons/bootstrap.svg" />
-  
+ 
+<br /> 
 <br />
 <br />
 <details>
