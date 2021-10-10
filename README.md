@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Adyuta
 
 
-### I'm Idiot Programer, Linux Enthusiast,and Student
+### I'm Idiot Programer, Linux Enthusiast, and Student
 <hr/>
 Hello, My name's Adyuta.<br>
 Im a Linux Enthusiast(not a linux elitist). And I'm interested in becoming a Full Stack Developer.
