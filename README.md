@@ -8,9 +8,9 @@ Im a Linux Enthusiast(not a linux elitist). And I'm interested in becoming a Ful
   
 I really like the world of programming, also related to technology. I spend all my time coding and learning new things. I also like tinkering with Linux Operating Systems, sometimes I like to try and install from parent distro to child distro, and it's really fun for me.
 
-
-
-**There is one corner of the universe you can be certain of improving, and that's your own self. -Aldous Huxley**
+![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
+![discord](https://img.shields.io/badge/Adyuta(9156)-5865F2??style=flat-square&logo=discord&logoColor=white)
+![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)  
   
   ### Languages and Tools:
 
