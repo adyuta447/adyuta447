@@ -9,8 +9,9 @@ Im a Linux Enthusiast(not a linux elitist). And I'm interested in becoming a Ful
 I really like the world of programming, also related to technology. I spend all my time coding and learning new things. I also like tinkering with Linux Operating Systems, sometimes I like to try and install from parent distro to child distro, and it's really fun for me.
 
 ![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
-![discord](https://img.shields.io/badge/Adyuta(9156)-5865F2??style=flat-square&logo=discord&logoColor=white)
-![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)  
+![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)
+
+![Discord](https://dcbadge.vercel.app/api/shield/719703157814591531?theme=discord)
   
   ### Languages and Tools:
 
