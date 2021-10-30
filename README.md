@@ -1,12 +1,10 @@
 ## Hi there 👋, I'm Adyuta
 
 
-### I'm Idiot Programer, Linux Enthusiast, and Student
-<hr/>
-Hello, My name's Adyuta.<br>
-Im a Linux Enthusiast(not a linux elitist). And I'm interested in becoming a Full Stack Developer.
-  
-I really like the world of programming, also related to technology. I spend all my time coding and learning new things. I also like tinkering with Linux Operating Systems, sometimes I like to try and install from parent distro to child distro, and it's really fun for me.
+- 🎓 I'm a Idiot Programer, Linux Enthusiast, and Student
+- 🌱 I’m currently learning JavaScript
+- 🚘 I'm interested in becoming a Full Stack Developer
+- 🐧 I use Artix Linux
 
 ![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)
