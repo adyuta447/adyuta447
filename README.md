@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Adyuta
 <img align="right" width="300em" height="300em" src="https://github.com/adyuta447/adyuta447/blob/main/icons/animation_500_kv8i962g.gif?raw=true"/>
+<br />
 
 
 
@@ -12,6 +13,8 @@
 ![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)
 
 ![Discord](https://dcbadge.vercel.app/api/shield/719703157814591531?theme=discord)
+
+  <br />
   
   ### Languages and Tools:
 
