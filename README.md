@@ -3,7 +3,6 @@
 <br />
 
 
-
 - 🎓 I'm a Idiot Programer, Linux Enthusiast, and Student
 - 🌱 I’m currently learning JavaScript
 - 🚘 I'm interested in becoming a Full Stack Developer
@@ -11,7 +10,7 @@
 
 ![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)
-
+<br />
 ![Discord](https://dcbadge.vercel.app/api/shield/719703157814591531?theme=discord)
 
   <br />
