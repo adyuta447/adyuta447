@@ -21,7 +21,7 @@
 ![neovim](https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white)
 ![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)
 ![html](https://img.shields.io/badge/html-ec642a?&style=for-the-badge&logo=html5&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-00B388?&style=for-the-badge&logo=javascript&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white)
 ![css](https://img.shields.io/badge/css-007acc?&style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
