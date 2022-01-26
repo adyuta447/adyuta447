@@ -26,6 +26,8 @@
 ![css](https://img.shields.io/badge/css-007acc?&style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
+![vercel](https://img.shields.io/badge/vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white)
+![netlify](https://img.shields.io/badge/netlify-00C7B7?&style=for-the-badge&logo=Netlify&logoColor=white)
 
 <br />
 <details>
