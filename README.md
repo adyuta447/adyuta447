@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Adyuta
-<img align="right" src="https://github.com/adyuta447/adyuta447/blob/main/icons/coderman.gif?raw=true"/>
+<img align="center" src="https://github.com/adyuta447/adyuta447/blob/main/icons/coderman.gif?raw=true"/>
 
 <br />
 
