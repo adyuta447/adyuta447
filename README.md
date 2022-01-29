@@ -5,7 +5,7 @@
 - 🎓 I'm a Idiot Programer, Linux Enthusiast, and Student
 - 🌱 I’m currently learning JavaScript
 - 🚘 I'm interested in becoming a Full Stack Developer
-- 🐧 I use Fedora
+- 🐧 I like exploring **GNU/Linux**. 
 
 ![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/Adyuta23-E4405F??style=flat-square&logo=instagram&logoColor=white)
