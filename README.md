@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Adyuta
 <img align="right" src="https://github.com/adyuta447/adyuta447/blob/main/icons/animation_500_kv8i962g.gif"/>
-<br />
+<br/>
 
 - 🎓 I'm a Idiot Programer, Linux Enthusiast, and Student
 - 🌱 I’m currently learning JavaScript
