@@ -3,7 +3,7 @@
 <br/>
 
 - 🎓 I'm a Idiot Programer, Linux Enthusiast, and Student
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning about Front-End Dev
 - 🚘 I'm interested in becoming a Full Stack Developer
 - 🐧 I like exploring **GNU/Linux**. 
 
