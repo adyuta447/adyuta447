@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/adyuta447/adyuta447/blob/main/icons/animation_500_kv8i962g.gif" width="380" height="360px"/>
 <br/>
 
-- 🎓 I'm a Idiot Programer, Linux Enthusiast, and Student
+- 🎓 I'm a Idiot Programmer, Linux Enthusiast, and Student
 - 🌱 I’m currently learning about Front-End Dev
 - 🚘 I'm interested in becoming a Full Stack Developer
 - 🐧 I like exploring **GNU/Linux**. 
