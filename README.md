@@ -27,6 +27,7 @@
 ![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?&style=for-the-badge&logo=Netlify&logoColor=white)
+![synk](https://img.shields.io/badge/snyk-4C4A73?&style=for-the-badge&logo=Snyk&logoColor=white)
 
 <br />
 <details>
