@@ -10,7 +10,7 @@
 ![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/atuuuy_-E4405F??style=flat-square&logo=instagram&logoColor=white)
 <br />
-![Discord](https://dcbadge.vercel.app/api/shield/719703157814591531?theme=discord)
+![Discord](https://dcbadge.vercel.app/api/shield/719703157814591531?theme=discord-inverted)
 
   <br />
   
