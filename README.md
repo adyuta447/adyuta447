@@ -1,33 +1,42 @@
-## Hi there 👋, I'm Adyuta
-<img align="right" src="https://github.com/adyuta447/adyuta447/blob/main/icons/animation_500_kv8i962g.gif" width="380" height="360px"/>
-<br/>
+Hi 👋 My name is Adyuta
+=======================
 
-- 🎓 I'm a Idiot Programmer, Linux Enthusiast, and Student
-- 🌱 I’m currently learning about Front-End Dev
-- 🚘 I'm interested in becoming a Full Stack Developer
-- 🐧 I like exploring **GNU/Linux**. 
+Front-End Enthusiast and Student
+--------------------------------
 
-![protonmail](https://img.shields.io/badge/Adyuta23@protonmail.com-8B89CC??style=flat-square&logo=protonmail&logoColor=white)
-![instagram](https://img.shields.io/badge/atuuuy_-E4405F??style=flat-square&logo=instagram&logoColor=white)
-<br />
-![Discord](https://dcbadge.vercel.app/api/shield/719703157814591531?theme=discord-inverted)
+I'm learning to be a Front-End Developer, the reason is simple because it's easier to understand. And also interested in learning about implementing good UI/UX design and interested in learning some other web technologies.
 
-  <br />
-  
-  ### Languages and Tools:
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [Adyuta@protonmail.com](mailto:Adyuta@protonmail.com)
+* 🚀  I'm currently working on [EtherLinux](http://ether-linux.org)
+* 🧠  I'm learning Javascript
+* 🤝  I'm open to collaborating on EtherLinux
+* ⚡  Sometimes, age doesn't determine your abilities
 
-![visualstudiocode](https://img.shields.io/badge/vscode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Skills
+
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+### Tools
 ![neovim](https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/vscode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)
-![html](https://img.shields.io/badge/html-ec642a?&style=for-the-badge&logo=html5&logoColor=white) <br/>
-![javascript](https://img.shields.io/badge/javascript-00B388?&style=for-the-badge&logo=javascript&logoColor=white) 
-![sass](https://img.shields.io/badge/scss-CC6699?&style=for-the-badge&logo=sass&logoColor=white)
-![css](https://img.shields.io/badge/css-007acc?&style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white) <br/>
 ![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?&style=for-the-badge&logo=Netlify&logoColor=white)
 ![synk](https://img.shields.io/badge/snyk-4C4A73?&style=for-the-badge&logo=Snyk&logoColor=white)
+![windows](https://img.shields.io/badge/windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)
 
 <br />
 <details>
@@ -40,5 +49,7 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adyuta447&theme=dracula" />
 </details>
 
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/K0oceng#9156" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/adyuta447" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/atuuuy_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Kooceng_Peduli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
