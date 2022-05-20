@@ -28,15 +28,21 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Tools
-![neovim](https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/vscode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)
-![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
+### Infrastructure
 ![vercel](https://img.shields.io/badge/vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?&style=for-the-badge&logo=Netlify&logoColor=white)
 ![synk](https://img.shields.io/badge/snyk-4C4A73?&style=for-the-badge&logo=Snyk&logoColor=white)
+
+### Operating Systems  
+![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)   
+![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)
+
+### Programming Tools
+![neovim](https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/vscode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-30475E?&style=for-the-badge&logo=prettier&logoColor=white)
+![eslint](https://img.shields.io/badge/eslint-4B32C3?&style=for-the-badge&logo=eslint&logoColor=white)
 
 <br />
 <details>
