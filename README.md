@@ -34,9 +34,9 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 ![synk](https://img.shields.io/badge/snyk-4C4A73?&style=for-the-badge&logo=Snyk&logoColor=white)
 
 ### Operating Systems  
-![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)   
 ![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)
+![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)   
 
 ### Programming Tools
 ![neovim](https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white)
