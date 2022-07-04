@@ -6,7 +6,7 @@ Front-End Enthusiast and Student
 
 I'm learning to be a Front-End Developer, the reason is simple because it's easier to understand. And also interested in learning about implementing good UI/UX design and interested in learning some other web technologies.
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Indonesian
 * ✉️  You can contact me at [Adyuta@protonmail.com](mailto:Adyuta@protonmail.com)
 * 🚀  I'm currently working on [EtherLinux](http://ether-linux.org)
 * 🧠  I'm learning Javascript
