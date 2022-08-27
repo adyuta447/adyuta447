@@ -45,10 +45,15 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 ![eslint](https://img.shields.io/badge/eslint-4B32C3?&style=for-the-badge&logo=eslint&logoColor=white)
 
 <br />
-
-
-![Metrics](https://metrics.lecoq.io/adyuta447?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&stars=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta)
-
+<details>
+  <summary><b>Github Profile</b></summary>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adyuta447&theme=dracula"/>
+</details>
+<details>
+  <summary><b>Most Used Languages</b></summary>
+ <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyuta447&langs_count=12&layout=compact&theme=dracula" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adyuta447&theme=dracula" />
+</details>
 
 ### Socials
 
