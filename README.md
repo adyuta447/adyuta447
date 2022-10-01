@@ -1,5 +1,6 @@
 Hi 👋 My name is Adyuta
 =======================
+<img src="https://raw.githubusercontent.com/adyuta447/adyuta447/blob/output/snake.svg" alt="Snake animation" />
 
 Front-End Enthusiast and Student
 --------------------------------
