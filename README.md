@@ -52,6 +52,7 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
   <summary><b>Most Used Languages</b></summary>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adyuta447&theme=dracula" />
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adyuta447&theme=dracula" />
+ <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyuta447&langs_count=12&layout=compact&theme=dracula" />
 </details>
 
 ### Socials
