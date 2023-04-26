@@ -7,7 +7,7 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 
 * 🌍  I'm based in Indonesian
 * ✉️  You can contact me at [Adyuta@protonmail.com](mailto:Adyuta@protonmail.com)
-* 🚀  I'm currently working on [EtherLinux](http://ether-linux.org)
+* 🚀  I'm currently working on [EtherLinux](https://etherlinux.netlify.app/)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on EtherLinux
 * ⚡  Sometimes, age doesn't determine your abilities
