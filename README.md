@@ -1,9 +1,7 @@
 Hi 👋 My name is Adyuta
 =======================
-Front-End Developer Expert | Cyber Security Researcher | Malware Analyst
+Front-End Developer Expert 
 --------------------------------
-Certified Malware Threats Certification and Advanced Penetration Testing Certification On [Cybrary](https://www.cybrary.it/)
-
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=adyuta447&theme=dracula"/>
 I'm learning to be a Front-End Developer, the reason is simple because it's easier to understand. And also interested in learning about implementing good UI/UX design and interested in learning some other web technologies.
