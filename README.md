@@ -56,7 +56,3 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyuta447&langs_count=15&layout=compact&theme=dracula" />
 </details>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/K0oceng#9156" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/adyuta447" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/atuuuy_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Kooceng_Peduli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
