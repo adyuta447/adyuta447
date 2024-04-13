@@ -1,6 +1,6 @@
 Hi 👋 My name is Adyuta
 =======================
-Front-End Developer Expert 
+Front-End Developer | Cyber Security Enthusiast
 --------------------------------
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=adyuta447&theme=dracula"/>
