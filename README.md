@@ -4,6 +4,7 @@ Front-End Developer | Cyber Security Enthusiast
 --------------------------------
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=adyuta447&theme=dracula"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adyuta447&label=Profile%20views&color=0e75b6&style=flat" alt="adyuta447" /> </p>
 I'm learning to be a Front-End Developer, the reason is simple because it's easier to understand. And also interested in learning about implementing good UI/UX design and interested in learning some other web technologies.
 
 * 🌍  I'm based in Indonesian
