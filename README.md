@@ -10,7 +10,7 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 * 🌍  I'm based in Indonesian
 * ✉️  You can contact me at [Adyuta@protonmail.com](mailto:Adyuta@protonmail.com)
 * 🚀  I'm currently working on Digital Awan Nusantara (Co-Founder)
-* 🧠  I'm learning Javascript, Typescript, and Python
+* 🧠  I'm learning Machine Learning, Full Stack Dev, Apps Dev
 * 🤝  I'm open to collaborating on EtherLinux
 * ⚡  Sometimes, age doesn't determine your abilities
 
@@ -71,7 +71,7 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 ![fedora](https://img.shields.io/badge/fedora-51A2DA?&style=for-the-badge&logo=fedora&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)
 ![archlinux](https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white)   
-![macos](https://img.shields.io/badge/apple-1793D1?&style=for-the-badge&logo=apple&logoColor=white)
+![macos](https://img.shields.io/badge/macos-1793D1?&style=for-the-badge&logo=apple&logoColor=white)
 
 
 <br />
