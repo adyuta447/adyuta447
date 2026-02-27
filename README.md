@@ -11,7 +11,7 @@ I'm learning to be a Front-End Developer, the reason is simple because it's easi
 * ✉️  You can contact me at [Adyuta@protonmail.com](mailto:Adyuta@protonmail.com)
 * 🚀  I'm currently working on Digital Awan Nusantara (Co-Founder)
 * 🧠  I'm learning Machine Learning, Full Stack Dev, Apps Dev
-* 🤝  I'm open to collaborating on EtherLinux
+* 🤝  I'm open to collaborating on Arkakode
 * ⚡  Sometimes, age doesn't determine your abilities
 
 ### Core
