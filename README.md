@@ -1,5 +1,5 @@
 # Hi 👋 My name is Adyuta
-## Software Developer | Front-End Developer | Machine Learning Anthusiast
+## Software Developer | Front-End Engineer | Machine Learning Anthusiast
 I'm a developer based in Indonesia, focused on building scalable and clean web applications.  Currently working as Co-Founder at Digital Awan Nusantara while sharpening my skills in Front-End Engineering, Machine Learning, and Mobile Development.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=adyuta447&theme=dracula"/>
